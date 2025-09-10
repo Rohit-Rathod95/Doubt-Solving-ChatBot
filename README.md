@@ -15,7 +15,7 @@ An AI-powered chatbot that solves JEE/NEET doubts step by step using:
 ## ⚡ Run Locally
 Clone the repo:
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/Rohit-Rathod95/Doubt-Solving-ChatBot .git
 cd doubt-solving-chatbot
 ```
 ## Backend 
